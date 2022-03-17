@@ -1,0 +1,330 @@
+{
+    "error": false,
+    "current_page": 1,
+    "next_page": 2,
+    "results": [
+        {
+            "asin": "B08R31PTFM",
+            "title": "Christmas at the Castle",
+            "image": "https://m.media-amazon.com/images/I/911gPL7llBL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08R31PTFM/?psc=1",
+            "prices": {
+                "current_price": 2.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 638,
+                "stars": 4.2
+            },
+            "prime": false,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B000C2TB6U",
+            "title": "Yankee Candle Large Jar, Christmas Cookie",
+            "image": "https://m.media-amazon.com/images/I/51QpcOSl-hS._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B000C2TB6U/?psc=1",
+            "prices": {
+                "current_price": 21.0,
+                "previous_price": 30.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 53475,
+                "stars": 4.7
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B0106JMDXG",
+            "title": "Christmas Tree Storage Bag - Stores a 9-Foot Artificial Xmas Holiday Tree. Durable Waterproof Material to Protect Against Dust, Insects, and Moisture. Zippered Bag with Carry Handles. (Red)",
+            "image": "https://m.media-amazon.com/images/I/71ihlT5A3YL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B0106JMDXG/?psc=1",
+            "prices": {
+                "current_price": 11.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 11829,
+                "stars": 4.5
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B07N8CNQ2R",
+            "title": "100-Count Multi Color Green Wire Christmas Lights Set Outdoor Indoor Colored Twinkle Xmas Tree Lights for Christmas Decorations, Wedding, Holiday, Party, Home",
+            "image": "https://m.media-amazon.com/images/I/91uAOsJZFpS._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B07N8CNQ2R/?psc=1",
+            "prices": {
+                "current_price": 13.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 3399,
+                "stars": 4.5
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B071VCQJ24",
+            "title": "Amazon.com Gift Card in a Reveal (Various Designs)",
+            "image": "https://m.media-amazon.com/images/I/81oykAH2uJL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B071VCQJ24/?psc=1",
+            "prices": {
+                "current_price": 2000.0,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 65423,
+                "stars": 4.9
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B01KKM47PQ",
+            "title": "Premium Large Christmas Tree Storage Bag - Fits Up to 9 ft. Tall Artificial Disassembled Trees, Durable Handles & Sleek Dual Zipper - Holiday Xmas Bag Made of Tear Proof 600D Oxford - 5 Year Warranty (Red)",
+            "image": "https://m.media-amazon.com/images/I/71BAD-MjYEL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B01KKM47PQ/?psc=1",
+            "prices": {
+                "current_price": 19.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 2406,
+                "stars": 4.6
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B081KBPRSN",
+            "title": "A Christmas Movie Christmas",
+            "image": "https://m.media-amazon.com/images/I/716Ci7WgqZL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B081KBPRSN/?psc=1",
+            "prices": {
+                "current_price": 3.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 126,
+                "stars": 4.1
+            },
+            "prime": false,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B09F31STYQ",
+            "title": "String Light Pole for Outdoors Pack 9FT Stainless Steel Connection String Light Poles for Hanging Patio Lights Fairyrain for Garden Backyard Party Christmas Holiday, Black Outdoor Metal Poles",
+            "image": "https://m.media-amazon.com/images/I/51Dndx8J6pS._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B09F31STYQ/?psc=1",
+            "prices": {
+                "current_price": 116.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 5,
+                "stars": 4.6
+            },
+            "prime": true,
+            "sponsored": true,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "1982177446",
+            "title": "A Christmas Memory",
+            "image": "https://m.media-amazon.com/images/I/716orAd1TTL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/1982177446/?psc=1",
+            "prices": {
+                "current_price": 0.0,
+                "previous_price": 18.89,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 0,
+                "stars": -1.0
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": true
+        },
+        {
+            "asin": "B084R25N9B",
+            "title": "Funko Advent Calendar: The Nightmare Before Christmas - 24 Pocket Pop! Vinyl Figures (2020)",
+            "image": "https://m.media-amazon.com/images/I/8120QWxxvZL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B084R25N9B/?psc=1",
+            "prices": {
+                "current_price": 42.75,
+                "previous_price": 59.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 6408,
+                "stars": 4.8
+            },
+            "prime": false,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B099RWRNDK",
+            "title": "Ollny Christmas String Lights Outdoor 400 LEDs 132FT Long Fairy Twinkle Lights for Indoor Waterproof, Warm White and Multi-Color Changing,11 Modes for Easter Weddings Xmas Trees Party Yard Holiday",
+            "image": "https://m.media-amazon.com/images/I/81wzF89xQZL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B099RWRNDK/?psc=1",
+            "prices": {
+                "current_price": 44.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 622,
+                "stars": 4.7
+            },
+            "prime": true,
+            "sponsored": true,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "0553212443",
+            "title": "A Christmas Carol (Bantam Classics)",
+            "image": "https://m.media-amazon.com/images/I/91RK0gVPWQL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/0553212443/?psc=1",
+            "prices": {
+                "current_price": 0.49,
+                "previous_price": 0.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 13534,
+                "stars": 4.7
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B079HF9WQR",
+            "title": "Christmas Wrapping Paper Storage Bag - Fits 14 to 20 Standard Rolls Upto 40\"- Slim Design Underbed Wrapping Paper Storage Container or Closet Storage Gift Wrap Organizer (Black)",
+            "image": "https://m.media-amazon.com/images/I/81qRXlXetsL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B079HF9WQR/?psc=1",
+            "prices": {
+                "current_price": 9.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 9669,
+                "stars": 4.6
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B01KKLVWDM",
+            "title": "Premium Christmas Tree Storage Bag - Fits Up to 9 ft Tall Artificial Disassembled Trees, Durable Handles & Sleek Dual Zipper - Holiday Xmas Bag Made of Tear Proof 600D Oxford - 5-Year Warranty",
+            "image": "https://m.media-amazon.com/images/I/81ErbD5uoIL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B01KKLVWDM/?psc=1",
+            "prices": {
+                "current_price": 23.99,
+                "previous_price": 26.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 12244,
+                "stars": 4.6
+            },
+            "prime": true,
+            "sponsored": false,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B097DK7YKL",
+            "title": "LED Canada Advanced Flag String Lights, Waterproof Led Flag Net Light ,Garden Decoration, Festival, Holiday, Party Decoration,Christmas Decorations (Plug in Power) (White)",
+            "image": "https://m.media-amazon.com/images/I/81SDiKiigLL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B097DK7YKL/?psc=1",
+            "prices": {
+                "current_price": 27.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 0,
+                "stars": -1.0
+            },
+            "prime": true,
+            "sponsored": true,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B097MRM48J",
+            "title": "LED Canada Advanced Flag String Lights Solar Powered, Waterproof Led Flag Net Light ,Garden Decoration, Festival, Holiday, Party Decoration,Christmas Decorations",
+            "image": "https://m.media-amazon.com/images/I/813+ho0l-aL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B097MRM48J/?psc=1",
+            "prices": {
+                "current_price": 35.99,
+                "previous_price": -1.0,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 0,
+                "stars": -1.0
+            },
+            "prime": true,
+            "sponsored": true,
+            "amazon_choice": false,
+            "out_of_stock": false
+        },
+        {
+            "asin": "B08D3DH5Q9",
+            "title": "YIQU Extendable Super-Long 95FT 240 LED Christmas String Lights Outdoor/Indoor, Green Wire Christmas Tree Lights Plug in String Lights for Xmas Decorations Party Wedding Garden (Warm White)",
+            "image": "https://m.media-amazon.com/images/I/817bxcxatOL._AC_UY218_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08D3DH5Q9/?psc=1",
+            "prices": {
+                "current_price": 16.99,
+                "previous_price": 22.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 1196,
+                "stars": 4.6
+            },
+            "prime": true,
+            "sponsored": true,
+            "amazon_choice": false,
+            "out_of_stock": false
+        }
+    ]
+}

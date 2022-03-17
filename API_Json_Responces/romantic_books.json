@@ -1,0 +1,487 @@
+{
+    "error": false,
+    "current_page": 1,
+    "next_page": 1,
+    "results": [
+        {
+            "rank": 1,
+            "asin": "B00OICLVBI",
+            "title": "The 5 Love Languages: The Secret to Love that Lasts",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81fA-i7ednL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B00OICLVBI",
+            "prices": {
+                "current_price": 7.19,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 62035,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 2,
+            "asin": "B003WEAI4E",
+            "title": "How To Win Friends and Influence People",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71PBcDeZb7L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B003WEAI4E",
+            "prices": {
+                "current_price": 13.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 56098,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 3,
+            "asin": "B078GL796R",
+            "title": "All About Love: New Visions (Love Song to the Nation Book 1)",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71-RF83S+5L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B078GL796R",
+            "prices": {
+                "current_price": 12.49,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 6176,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 4,
+            "asin": "B004J4WNL2",
+            "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71FvX52xEBL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B004J4WNL2",
+            "prices": {
+                "current_price": 14.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 16909,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 5,
+            "asin": "B0049H9AVU",
+            "title": "Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love: The New Science of Adult Attachment",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71+hA-t71zL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B0049H9AVU",
+            "prices": {
+                "current_price": 12.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 10801,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 6,
+            "asin": "B08VMXDSLM",
+            "title": "These Precious Days: Essays",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81dzcYX7gpS._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08VMXDSLM",
+            "prices": {
+                "current_price": 14.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 2130,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 7,
+            "asin": "B00TZE87S4",
+            "title": "Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/6104wn8QCSL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B00TZE87S4",
+            "prices": {
+                "current_price": 9.11,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 9475,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 8,
+            "asin": "B00N6PEQV0",
+            "title": "The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/813o4WOs+wL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B00N6PEQV0",
+            "prices": {
+                "current_price": 11.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 9285,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 9,
+            "asin": "B004DI7TQI",
+            "title": "How To Start A Conversation And Make Friends: Revised And Updated",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81MBqMJp0hL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B004DI7TQI",
+            "prices": {
+                "current_price": 1.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 276,
+                "stars": 4.5
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 10,
+            "asin": "B08F5L14MY",
+            "title": "Polysecure: Attachment, Trauma and Consensual Nonmonogamy",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61uQpviuWgL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08F5L14MY",
+            "prices": {
+                "current_price": 8.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 1349,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 11,
+            "asin": "B00IHZ91T6",
+            "title": "Men Are from Mars, Women Are from Venus: The Classic Guide to Understanding the Opposite Sex",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81xfYpj5dXL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B00IHZ91T6",
+            "prices": {
+                "current_price": 8.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 9083,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 12,
+            "asin": "B079VTH6RH",
+            "title": "Eight Dates: Essential Conversations for a Lifetime of Love",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91ChutyYMGL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B079VTH6RH",
+            "prices": {
+                "current_price": 10.49,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 3400,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 13,
+            "asin": "B07RYGHKND",
+            "title": "You're Not Listening: What You're Missing and Why It Matters",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71hcjUO23OL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B07RYGHKND",
+            "prices": {
+                "current_price": 2.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 1225,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 14,
+            "asin": "B09TGGMLD9",
+            "title": "Sentimientos: Emociones de Corazon a Corazon: Relatos y Poemas (Spanish Edition)",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71uF6gVExPL._UX300__PJku-sticker-v7,TopRight,0,-50_AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B09TGGMLD9",
+            "prices": {
+                "current_price": 0.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 15,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 15,
+            "asin": "B09QY4XC7Z",
+            "title": "Guide To Getting It On",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81KGGK4fzJL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B09QY4XC7Z",
+            "prices": {
+                "current_price": 9.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 678,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 16,
+            "asin": "B014OISVU4",
+            "title": "Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/718y7IyLoTL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B014OISVU4",
+            "prices": {
+                "current_price": 10.44,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 5874,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 17,
+            "asin": "B08XPQL61B",
+            "title": "Stop Overthinking: 23 Techniques to Relieve Stress, Stop Negative Spirals, Declutter Your Mind, and Focus on the Present (Men",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81n2LVmki9L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08XPQL61B",
+            "prices": {
+                "current_price": 3.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 2377,
+                "stars": 4.5
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 18,
+            "asin": "B0944BMGJM",
+            "title": "Maneras de amar: La nueva ciencia del apego adulto y cómo puede ayudarte a encontrar el amor y conservarlo (Crecimiento perso",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71KpgtZBESS._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B0944BMGJM",
+            "prices": {
+                "current_price": 6.35,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 377,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 19,
+            "asin": "B08ZMCY9W2",
+            "title": "I'll Be There (But I'll Be Wearing Sweatpants): Finding Unfiltered, Real-Life Friendships in This Crazy, Chaotic World",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81Nva2J-6dS._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B08ZMCY9W2",
+            "prices": {
+                "current_price": 9.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 610,
+                "stars": 4.8
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 20,
+            "asin": "B09S7CZM92",
+            "title": "Single & Secure: Break Up with the Lies and Fall in Love with the Truth",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61GIyeQXERL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B09S7CZM92",
+            "prices": {
+                "current_price": 9.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 15,
+                "stars": 5.0
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 21,
+            "asin": "B00UF72CMW",
+            "title": "Saving Your Marriage Before It Starts: Seven Questions to Ask Before -- and After -- You Marry",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81g7AYI+s8L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B00UF72CMW",
+            "prices": {
+                "current_price": 6.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 1214,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 22,
+            "asin": "B005SCSCAU",
+            "title": "The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71xBShYRX3L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B005SCSCAU",
+            "prices": {
+                "current_price": 11.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 4945,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 23,
+            "asin": "B0011UGLQK",
+            "title": "Hold Me Tight: Seven Conversations for a Lifetime of Love",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71+jlg2khjS._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B0011UGLQK",
+            "prices": {
+                "current_price": 15.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 3936,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 24,
+            "asin": "B001NLKYIS",
+            "title": "The Grief Recovery Handbook, 20th Anniversary Expanded Edition: The Action Program for Moving Beyond Death, Divorce, and Othe",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71YMDlGIM3L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B001NLKYIS",
+            "prices": {
+                "current_price": 11.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 3350,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 25,
+            "asin": "B07BZ4F75T",
+            "title": "Maybe You Should Talk To Someone: A Therapist, HER Therapist, and Our Lives Revealed",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/816Gj-UmcVL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B07BZ4F75T",
+            "prices": {
+                "current_price": 12.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 17500,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 26,
+            "asin": "B01NBHVD4P",
+            "title": "Healing from Infidelity: The Divorce Busting® Guide to Rebuilding Your Marriage After an Affair",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81DQdu2ksvL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B01NBHVD4P",
+            "prices": {
+                "current_price": 9.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 861,
+                "stars": 4.5
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 27,
+            "asin": "B06ZY5STD6",
+            "title": "The Power of Moments: Why Certain Experiences Have Extraordinary Impact",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71k27WaSmFL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B06ZY5STD6",
+            "prices": {
+                "current_price": 14.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 2472,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 28,
+            "asin": "B07NDKVWZW",
+            "title": "Talking to Strangers: What We Should Know about the People We Don't Know",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71sRKGhsNtS._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B07NDKVWZW",
+            "prices": {
+                "current_price": 12.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 13616,
+                "stars": 4.5
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 29,
+            "asin": "B000MGATWG",
+            "title": "The SPEED of Trust: The One Thing that Changes Everything",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71qsqPsSEuL._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B000MGATWG",
+            "prices": {
+                "current_price": 14.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 2894,
+                "stars": 4.6
+            },
+            "out_of_stock": false
+        },
+        {
+            "rank": 30,
+            "asin": "B005MRBEAG",
+            "title": "The ADHD Effect on Marriage: Understand and Rebuild Your Relationship in Six Steps",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71H4ixx4b6L._AC_UL302_SR302,200_.jpg",
+            "full_link": "https://www.amazon.com/dp/B005MRBEAG",
+            "prices": {
+                "current_price": 11.99,
+                "currency": "$"
+            },
+            "reviews": {
+                "total_reviews": 1104,
+                "stars": 4.7
+            },
+            "out_of_stock": false
+        }
+    ]
+}
