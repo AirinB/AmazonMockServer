@@ -2,33 +2,44 @@ const express = require('express')
 const app = express()
 const port = 8000
 
+const getData = (filepath) => {
+    const jsonData= require(filepath);
+    return jsonData.results
+};
+
 // run server on node .
 app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
 app.get('/christmas', (req, res) => {
-    res.send('Christmas');
+    const result = getData('./API_Json_Responces/search_Christmas.json');
+    res.send(result);
 });
 
 app.get('/birthday', (req, res) => {
-    res.send('Birthday');
+    const result = getData('./API_Json_Responces/seach_birthday.json');
+    res.send(result);
 });
 
 app.get('/anniversary', (req, res) => {
-    res.send('Anniversary');
+    const result = getData('./API_Json_Responces/search_aniversary_gifts.json');
+    res.send(result);
 });
 
 app.get('/valentines', (req, res) => {
-    res.send('Valentines');
+    const result = getData('./API_Json_Responces/search_valentines.json');
+    res.send(result);
 });
 
 app.get('/woman', (req, res) => {
-    res.send('Woman');
+    const result = getData('./API_Json_Responces/search_woman_gifts.json');
+    res.send(result);
 });
 
 app.get('/man', (req, res) => {
-    res.send('man');
+    const result = getData('./API_Json_Responces/search_man_gifts.json');
+    res.send(result);
 });
 
 
