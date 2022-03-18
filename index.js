@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require('cors');
 const app = express();
 const christmas = require("./api/christmas");
 const birthday = require("./api/birthday");
@@ -8,6 +9,7 @@ const woman = require("./api/woman");
 const man = require("./api/man");
 const valentines = require("./api/valentines");
 
+app.use(cors())
 app.use(express.json({ extended: false }));
 
 app.use("/api/product", product);
