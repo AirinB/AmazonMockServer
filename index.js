@@ -2,10 +2,6 @@
 // const app = express()
 // const port = 8080
 //
-// const getData = (filepath) => {
-//     const jsonData= require(filepath);
-//     return jsonData.results
-// };
 //
 // // run server on node .
 // app.get('/', (req, res) => {
@@ -50,11 +46,15 @@
 
 const express = require("express");
 const app = express();
+const christmas = require("./api/christmas");
 const product = require("./api/product");
+// const product = require("./api/product");
+// const product = require("./api/product");
 
 app.use(express.json({ extended: false }));
 
 app.use("/api/product", product);
+app.use("/api/christmas", christmas);
 
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => console.log(`Server is running in port ${PORT}`));
