@@ -1,5 +1,5 @@
 const express = require("express");
-const jsonData = require("./data.json");
+// const jsonData = require("./data.json");
 const fs = require("fs");
 const router = express.Router();
 
