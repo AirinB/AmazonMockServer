@@ -8,7 +8,6 @@ const product = require("./api/product");
 const woman = require("./api/woman");
 const man = require("./api/man");
 const valentines = require("./api/valentines");
-const newGift = require("./api/newgift");
 
 app.use(cors())
 app.use(express.json({ extended: false }));
@@ -20,7 +19,6 @@ app.use("/api/anniversary", anniversary);
 app.use("/api/valentines", valentines);
 app.use("/api/woman", woman);
 app.use("/api/man", man);
-app.use("/api/newgift", newGift);
 
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => console.log(`Server is running in port ${PORT}`));
