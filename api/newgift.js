@@ -1,6 +1,6 @@
 const express = require("express");
-// const jsonData = require("./data.json");
 const fs = require("fs");
+const path = require("path");
 const router = express.Router();
 
 /**
@@ -9,31 +9,25 @@ const router = express.Router();
  * @return product list | empty.
  */
 
+const fileDirectory = 'API_Json_Responces'
+const getFileName = (category, type = '') => `search_${category}${type ? "_" + type : ""}.json`
+
 router.post("/", async (req, res) => {
 
     try {
-        //TODO
-        // 1. check if the category exists
-        // 2. check if other important data is in the json element
-        // 3. add new element at the end of the file in the right structure
-        // 4. send the message + code
-        // 5. Push the code on git
-        // 6. check in vercel if the API is working as expected
-        // 7. make a post request from the client t
+        const {category, gift} = req.body;
+        const fileName = getFileName(category, gift ? 'gifts': '');
+        const filePath = path.join(fileDirectory, fileName);
+        const fileExists = fs.existsSync(filePath);
 
-        // console.log('receiving data ...');
-        // const category = req.body.category;
-        // const gift = req.body.gift;
-        // if (gift.hasOwnProperty('full_link') && gift.hasOwnProperty('image') && gift.hasOwnProperty('prices')
-        //     && gift.hasOwnProperty('reviews') && gift.hasOwnProperty('prime')
-        //     && gift.prices.hasOwnProperty('current_price') && gift.prices.hasOwnProperty('previous_price')
-        //     && gift.reviews.hasOwnProperty('stars')) {
-        //     console.log("Properties exists");
-        //
-        //
-        //
-        // }
+        if (fileExists) {
+            const fileContents = fs.readFileSync(filePath, 'utf-8');
+            const contentsJson = JSON.parse(fileContents);
 
+            contentsJson.results.push(gift);
+            fs.writeFileSync(filePath, JSON.stringify(contentsJson, null, 2));
+        }
+        // TODO send the right code and message
         res.send(req.body);
     } catch (error) {
         console.error(error);
