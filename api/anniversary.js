@@ -8,7 +8,7 @@ const router = express.Router();
  */
 router.get("/", async (req, res) => {
     try {
-        const jsonData= require('../API_Json_Responces/search_aniversary_gifts.json');
+        const jsonData= require('../API_Json_Responces/search_anniversary_gifts.json');
         res.send(jsonData.results);
     } catch (error) {
         console.error(error);
