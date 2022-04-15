@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-
+const getFileContents = require('./utils/getFileContents');
 /**
  * GET christmas gifts items.
  *
@@ -8,7 +8,7 @@ const router = express.Router();
  */
 router.get("/", async (req, res) => {
     try {
-        const jsonData= require('../API_Json_Responces/search_birthday_gifts.json');
+        const jsonData= getFileContents('search_birthday_gifts.json');
         res.send(jsonData.results);
     } catch (error) {
         console.error(error);

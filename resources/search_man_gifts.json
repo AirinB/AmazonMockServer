@@ -1161,6 +1161,25 @@
       "sponsored": false,
       "amazon_choice": false,
       "out_of_stock": false
+    },
+    {
+      "asin": "",
+      "title": "Figure",
+      "image": "",
+      "full_link": "https://www.amazon.it/BRUBAKER-Screw-Man-Cook-Lavorata/dp/B08V152D8Y/ref=sr_1_1_sspa?keywords=man+gift+idea&qid=1650041751&sprefix=man+gift%2Caps%2C112&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMVUzOEhZR1FTVUFEJmVuY3J5cHRlZElkPUEwMDk4OTIySlJTWUpEMzhBQ1RDJmVuY3J5cHRlZEFkSWQ9QTA2MzMxNDExQTI1VTlHWjhJOURSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+      "prices": {
+        "current_price": "29",
+        "previous_price": -1,
+        "currency": "$"
+      },
+      "reviews": {
+        "total_reviews": 0,
+        "stars": 0
+      },
+      "prime": false,
+      "sponsored": false,
+      "amazon_choice": false,
+      "out_of_stock": false
     }
   ]
 }
