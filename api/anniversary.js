@@ -12,7 +12,7 @@ router.get("/", async (req, res) => {
         res.send(jsonData.results);
     } catch (error) {
         console.error(error);
-        return res.status(500).send("Server error");
+        return res.status(500).send("Server error", error);
     }
 });
 

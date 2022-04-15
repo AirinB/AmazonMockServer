@@ -56,7 +56,7 @@ router.post("/", async (req, res) => {
             writeFileContents(fileName, JSON.stringify(contentsJson, null, 2));
             console.log("The new gift is added to ", category);
         } else {
-            console.log("Filename does not exists" + fileName)
+            console.log("Filename does not exists" + fileName);
         }
         res.send(req.body);
     } catch (error) {
