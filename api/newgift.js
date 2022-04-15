@@ -64,7 +64,7 @@ router.post("/", async (req, res) => {
         res.send(req.body);
     } catch (error) {
         console.error(error);
-        return res.status(500).send("Server error");
+        return res.status(500).send("Server error: " + error.message);
     }
 });
 
