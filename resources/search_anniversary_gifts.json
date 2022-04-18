@@ -48,7 +48,7 @@
       "full_link": "https://www.amazon.com/dp/B08PBGD398/?psc=1",
       "prices": {
         "current_price": 22.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -67,12 +67,12 @@
       "full_link": "https://www.amazon.com/dp/B09VK654XC/?psc=1",
       "prices": {
         "current_price": 9.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
         "total_reviews": 0,
-        "stars": -1
+        "stars": -1.0
       },
       "prime": false,
       "sponsored": true,
@@ -86,7 +86,7 @@
       "full_link": "https://www.amazon.com/dp/B01LXE6M2I/?psc=1",
       "prices": {
         "current_price": 4.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -105,7 +105,7 @@
       "full_link": "https://www.amazon.com/dp/B0036TYWOM/?psc=1",
       "prices": {
         "current_price": 49.96,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -124,7 +124,7 @@
       "full_link": "https://www.amazon.com/dp/B07FKV2V1W/?psc=1",
       "prices": {
         "current_price": 8.95,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -143,7 +143,7 @@
       "full_link": "https://www.amazon.com/dp/B088BL7N2D/?psc=1",
       "prices": {
         "current_price": 12.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -162,7 +162,7 @@
       "full_link": "https://www.amazon.com/dp/B01BDQ3L50/?psc=1",
       "prices": {
         "current_price": 12.89,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -180,8 +180,8 @@
       "image": "https://m.media-amazon.com/images/I/8177M4a5JdL._AC_UL320_.jpg",
       "full_link": "https://www.amazon.com/dp/B09JHRBS18/?psc=1",
       "prices": {
-        "current_price": 25,
-        "previous_price": -1,
+        "current_price": 25.0,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -200,7 +200,7 @@
       "full_link": "https://www.amazon.com/dp/B07YXY3Y3X/?psc=1",
       "prices": {
         "current_price": 6.28,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -219,7 +219,7 @@
       "full_link": "https://www.amazon.com/dp/B098BPDTZV/?psc=1",
       "prices": {
         "current_price": 4.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -238,7 +238,7 @@
       "full_link": "https://www.amazon.com/dp/B01M1I4NE6/?psc=1",
       "prices": {
         "current_price": 11.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -257,7 +257,7 @@
       "full_link": "https://www.amazon.com/dp/B08BFMMK65/?psc=1",
       "prices": {
         "current_price": 37.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -276,7 +276,7 @@
       "full_link": "https://www.amazon.com/dp/B08KZDJMZX/?psc=1",
       "prices": {
         "current_price": 22.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -295,7 +295,7 @@
       "full_link": "https://www.amazon.com/dp/B08Z7HSPCD/?psc=1",
       "prices": {
         "current_price": 26.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -313,13 +313,13 @@
       "image": "https://m.media-amazon.com/images/I/71OqhIOsveL._AC_UL320_.jpg",
       "full_link": "https://www.amazon.com/dp/B09KXKKJF1/?psc=1",
       "prices": {
-        "current_price": 32,
-        "previous_price": -1,
+        "current_price": 32.0,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
         "total_reviews": 0,
-        "stars": -1
+        "stars": -1.0
       },
       "prime": true,
       "sponsored": true,
@@ -333,7 +333,7 @@
       "full_link": "https://www.amazon.com/dp/B095GQ986W/?psc=1",
       "prices": {
         "current_price": 25.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -371,7 +371,7 @@
       "full_link": "https://www.amazon.com/dp/B06WPB3137/?psc=1",
       "prices": {
         "current_price": 1.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -390,7 +390,7 @@
       "full_link": "https://www.amazon.com/dp/B09DYK6T4M/?psc=1",
       "prices": {
         "current_price": 32.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -409,7 +409,7 @@
       "full_link": "https://www.amazon.com/dp/B07GKJ6VRJ/?psc=1",
       "prices": {
         "current_price": 22.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -428,7 +428,7 @@
       "full_link": "https://www.amazon.com/dp/B016055W88/?psc=1",
       "prices": {
         "current_price": 5.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -447,7 +447,7 @@
       "full_link": "https://www.amazon.com/dp/B01MSWMUG8/?psc=1",
       "prices": {
         "current_price": 24.9,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -466,7 +466,7 @@
       "full_link": "https://www.amazon.com/dp/B07FD5YFJR/?psc=1",
       "prices": {
         "current_price": 8.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -523,7 +523,7 @@
       "full_link": "https://www.amazon.com/dp/B07WYBTKPN/?psc=1",
       "prices": {
         "current_price": 12.59,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -542,7 +542,7 @@
       "full_link": "https://www.amazon.com/dp/B01NAGXGLT/?psc=1",
       "prices": {
         "current_price": 34.95,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -561,7 +561,7 @@
       "full_link": "https://www.amazon.com/dp/B089KTTZR2/?psc=1",
       "prices": {
         "current_price": 29.7,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -599,7 +599,7 @@
       "full_link": "https://www.amazon.com/dp/B093ZP7V73/?psc=1",
       "prices": {
         "current_price": 9.29,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -617,8 +617,8 @@
       "image": "https://m.media-amazon.com/images/I/81acg4vOtPL._AC_UL320_.jpg",
       "full_link": "https://www.amazon.com/dp/B08ZHM99RJ/?psc=1",
       "prices": {
-        "current_price": 64,
-        "previous_price": -1,
+        "current_price": 64.0,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -637,7 +637,7 @@
       "full_link": "https://www.amazon.com/dp/B08NC1P612/?psc=1",
       "prices": {
         "current_price": 28.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -656,7 +656,7 @@
       "full_link": "https://www.amazon.com/dp/B008ZV9QOM/?psc=1",
       "prices": {
         "current_price": 109.9,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -675,12 +675,12 @@
       "full_link": "https://www.amazon.com/dp/B09V3J58NY/?psc=1",
       "prices": {
         "current_price": 2.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
         "total_reviews": 0,
-        "stars": -1
+        "stars": -1.0
       },
       "prime": false,
       "sponsored": false,
@@ -694,7 +694,7 @@
       "full_link": "https://www.amazon.com/dp/B09CYD9MKV/?psc=1",
       "prices": {
         "current_price": 13.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -732,7 +732,7 @@
       "full_link": "https://www.amazon.com/dp/B0793HJ1DX/?psc=1",
       "prices": {
         "current_price": 6.37,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -751,7 +751,7 @@
       "full_link": "https://www.amazon.com/dp/B08WPNQ8L5/?psc=1",
       "prices": {
         "current_price": 39.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -770,7 +770,7 @@
       "full_link": "https://www.amazon.com/dp/B08FHB56RZ/?psc=1",
       "prices": {
         "current_price": 10.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -808,7 +808,7 @@
       "full_link": "https://www.amazon.com/dp/B00E1OW7MU/?psc=1",
       "prices": {
         "current_price": 39.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -826,8 +826,8 @@
       "image": "https://m.media-amazon.com/images/I/810db+ICDyL._AC_UL320_.jpg",
       "full_link": "https://www.amazon.com/dp/B01K8RJVDQ/?psc=1",
       "prices": {
-        "current_price": 2000,
-        "previous_price": -1,
+        "current_price": 2000.0,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -846,7 +846,7 @@
       "full_link": "https://www.amazon.com/dp/B08QPVVN27/?psc=1",
       "prices": {
         "current_price": 16.95,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -884,7 +884,7 @@
       "full_link": "https://www.amazon.com/dp/B096RZ6WMN/?psc=1",
       "prices": {
         "current_price": 6.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -903,7 +903,7 @@
       "full_link": "https://www.amazon.com/dp/B00IQY4TW2/?psc=1",
       "prices": {
         "current_price": 4.25,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -922,7 +922,7 @@
       "full_link": "https://www.amazon.com/dp/B01KWIH2A0/?psc=1",
       "prices": {
         "current_price": 4.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -941,7 +941,7 @@
       "full_link": "https://www.amazon.com/dp/B07G7DN5M6/?psc=1",
       "prices": {
         "current_price": 5.95,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -960,7 +960,7 @@
       "full_link": "https://www.amazon.com/dp/B01LZ0Q9RU/?psc=1",
       "prices": {
         "current_price": 3.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -979,7 +979,7 @@
       "full_link": "https://www.amazon.com/dp/B0793JV5V7/?psc=1",
       "prices": {
         "current_price": 4.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -998,7 +998,7 @@
       "full_link": "https://www.amazon.com/dp/B095GQ986W/?psc=1",
       "prices": {
         "current_price": 25.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -1017,7 +1017,7 @@
       "full_link": "https://www.amazon.com/dp/B00004RFQ4/?psc=1",
       "prices": {
         "current_price": 34.95,
-        "previous_price": 50,
+        "previous_price": 50.0,
         "currency": "$"
       },
       "reviews": {
@@ -1055,7 +1055,7 @@
       "full_link": "https://www.amazon.com/dp/B09LRF44P4/?psc=1",
       "prices": {
         "current_price": 24.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -1074,7 +1074,7 @@
       "full_link": "https://www.amazon.com/dp/B072MMD2JL/?psc=1",
       "prices": {
         "current_price": 5.97,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -1093,7 +1093,7 @@
       "full_link": "https://www.amazon.com/dp/B089FNWS79/?psc=1",
       "prices": {
         "current_price": 17.99,
-        "previous_price": -1,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -1111,8 +1111,8 @@
       "image": "https://m.media-amazon.com/images/I/81M-VvcXsyL._AC_UL320_.jpg",
       "full_link": "https://www.amazon.com/dp/B07VWCLH8M/?psc=1",
       "prices": {
-        "current_price": 57,
-        "previous_price": -1,
+        "current_price": 57.0,
+        "previous_price": -1.0,
         "currency": "$"
       },
       "reviews": {
@@ -1121,25 +1121,6 @@
       },
       "prime": true,
       "sponsored": true,
-      "amazon_choice": false,
-      "out_of_stock": false
-    },
-    {
-      "asin": "",
-      "title": "Lamp",
-      "image": "https://firebasestorage.googleapis.com/v0/b/giftzen.appspot.com/o/images%2F71wWrR9-q8S._AC_SL1500_.jpg?alt=media&token=01513b01-088d-4009-ac97-9559b1d6f700",
-      "full_link": "https://www.amazon.it/CoMokin-Projection-Proiezione-Arcobaleno-Rotazione/dp/B091TTLYGX/ref=sr_1_2_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2NQJW26KO6YNX&keywords=lamp&qid=1649851544&sprefix=lamp%2Caps%2C148&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE2REVKSVNSVEpHQzMmZW5jcnlwdGVkSWQ9QTA5NDUzMTUzOUhJRkZLSk5MODEmZW5jcnlwdGVkQWRJZD1BMDY2NjUyODIxTVlNTFg3UERKNUEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1",
-      "prices": {
-        "current_price": "28",
-        "previous_price": -1,
-        "currency": "$"
-      },
-      "reviews": {
-        "total_reviews": 0,
-        "stars": 0
-      },
-      "prime": false,
-      "sponsored": false,
       "amazon_choice": false,
       "out_of_stock": false
     }

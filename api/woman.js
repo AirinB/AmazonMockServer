@@ -9,7 +9,7 @@ const getFileContents = require('./utils/getFileContents');
  */
 router.get("/", async (req, res) => {
     try {
-        const jsonData= getFileContents('search_woman_gifts.json');
+        const jsonData= getFileContents('search_woman_gifts_old.json');
         res.send(jsonData.results);
     } catch (error) {
         console.error(error);
