@@ -1,9 +1,9 @@
-const path = require("path");
-const fs = require("fs");
+import path from "path";
+import fs from "fs";
 
 const fileDirectory = 'resources'
 
-module.exports = (fileName) => {
+export default (fileName) => {
     const filePath = path.join(fileDirectory, fileName);
     const fileExists = fs.existsSync(filePath);
 
