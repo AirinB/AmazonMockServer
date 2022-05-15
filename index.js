@@ -13,16 +13,9 @@ app.get("/parse-amazon", (req, res) => {
     return;
   }
 
-  const htmlPromise = getHtml(req.query.url);
-
   parseAmazon(req.query.url)
     .then((data) => {
       console.log({ data });
-      if (!data.prices || !Object.keys(data.prices).length) {
-        return htmlPromise.then((html) => {
-          return parseAmazon(parseAmazon).then(res.send);
-        });
-      }
       res.send(data);
     })
     .catch((error) => {
