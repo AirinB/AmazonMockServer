@@ -7,7 +7,6 @@ app.use(cors());
 app.use(express.json({ extended: false }));
 
 app.get("/parse-amazon", (req, res) => {
-  console.log(req.query.url);
   if (!req.query.url) {
     res.status(400).send("missing URL param");
     return;
