@@ -1,26 +1,45 @@
 const express = require("express");
-const cors = require('cors');
+const cors = require("cors");
 const app = express();
-const christmas = require("./api/christmas");
-const birthday = require("./api/birthday");
-const anniversary = require("./api/anniversary");
-const product = require("./api/product");
-const woman = require("./api/woman");
-const man = require("./api/man");
-const valentines = require("./api/valentines");
-const newGift = require("./api/newgift");
+const parseAmazon = require("./api/utils/scraper");
+const { getHtml } = require("./api/utils/browser");
 
-app.use(cors())
+app.use(cors());
 app.use(express.json({ extended: false }));
 
-app.use("/api/product", product);
-app.use("/api/christmas", christmas);
-app.use("/api/birthday", birthday);
-app.use("/api/anniversary", anniversary);
-app.use("/api/valentines", valentines);
-app.use("/api/woman", woman);
-app.use("/api/man", man);
-app.use("/api/newgift", newGift);
+app.get("/parse-amazon", (req, res) => {
+  if (!req.query.url) {
+    res.status(400).send("missing URL param");
+    return;
+  }
 
-const PORT = process.env.PORT || 8080;
+  parseAmazon(req.query.url)
+    .then((data) => {
+      console.log({ data });
+      res.send(data);
+    })
+    .catch((error) => {
+      console.log({ error });
+      res.status(500).send(error);
+    });
+});
+
+app.get("/debug", (req, res) => {
+  if (!req.query.url) {
+    res.status(400).send("missing URL param");
+    return;
+  }
+  getHtml(req.query.url)
+    .then((text) => {
+      res.attachment("debug.txt");
+      res.type("txt");
+      res.send(text);
+    })
+    .catch((error) => {
+      console.log({ error });
+      res.status(500).send(error);
+    });
+});
+
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server is running in port ${PORT}`));
