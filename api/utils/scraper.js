@@ -5,21 +5,27 @@ const xray = Xray({
             return typeof value === 'string' ? value.replace(/\n/, '').trim() : value
         }}});
 
-const normalizeScrapedData = (data) => {
+const normalizeScrapedData = (data, url) => {
+    const asinRegexp = /(?<=dp\/)(.*)(?=\/)/gi;
+    const [possibleAsin] = url.match(asinRegexp) || [];
+
     const [oldPrice, newPrice, priceDiff] = data.prices;
     const prices = {}
-    if (!priceDiff || !priceDiff.price) {
-        prices['current_price'] = Number(oldPrice.price.slice(1));
-        prices.currency = oldPrice.price.charAt(0);
-    } else {
-        prices['current_price'] = Number(newPrice.price.slice(1));
-        prices['previous_price'] = Number(oldPrice.price.slice(1));
-        prices.currency = newPrice.price.charAt(0);
+    if (data.prices.length) {
+        if (!priceDiff || !priceDiff.price) {
+            prices['current_price'] = Number(oldPrice.price.slice(1));
+            prices.currency = oldPrice.price.charAt(0);
+        } else {
+            prices['current_price'] = Number(newPrice.price.slice(1));
+            prices['previous_price'] = Number(oldPrice.price.slice(1));
+            prices.currency = newPrice.price.charAt(0);
+        }
     }
     return {
         ...data,
         out_of_stock: !!data.out_of_stock,
         amazon_choice: !!data.amazon_choice,
+        asin: data.asin || possibleAsin,
         prices,
         reviews: {
             stars: Number.parseFloat(data.reviews.stars),
@@ -51,7 +57,7 @@ const parseAmazon = product_url => {
             if (err) {
                 reject(err);
             } else {
-                resolve(normalizeScrapedData(data));
+                resolve(normalizeScrapedData(data, product_url));
             }
         });
     })
